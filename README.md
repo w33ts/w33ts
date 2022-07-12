@@ -1,4 +1,7 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=cyberweet&color=orange)
+[![w33t's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberweet&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **cyberweet/cyberweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
