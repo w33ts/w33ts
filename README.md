@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=cyberweet&color=orange)
 <br />
-[![w33t's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberweet&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![w33t's GitHub Stats](https://github-readme-stats.vercel.app/api?username=w33ts&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
