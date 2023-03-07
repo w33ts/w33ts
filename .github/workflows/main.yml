@@ -20,6 +20,7 @@ jobs:
           user: w33ts
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: true
           config_timezone: America/Chicago
           plugin_habits: yes
           plugin_habits_charts_type: classic
