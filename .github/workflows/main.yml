@@ -21,6 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: true
+          repositories_affiliations: OWNER, ORGANIZATION_MEMBER, COLLABORATOR
           config_timezone: America/Chicago
           plugin_habits: yes
           plugin_habits_charts_type: classic
