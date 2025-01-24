@@ -1300,27 +1300,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 39.936%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">50%</span>
+                                <div class="bar" style="width: 33.816%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">42%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 32.12%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
+                                <div class="bar" style="width: 27.192000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 12.264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSV</span>
-                                <div class="bar" style="width: 6.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 5.768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 0.6480000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 0.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1329,7 +1329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 00:05:46 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 01:04:54 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
