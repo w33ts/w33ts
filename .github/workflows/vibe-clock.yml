@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: dexhunter/vibe-clock@v1.4.0
+      - uses: w33ts/vibe-clock@main
         with:
           gist_id: ${{ secrets.VIBE_CLOCK_GIST_ID }}
