@@ -5,8 +5,8 @@
   </text>
   <g font-family="Courier New, Courier, monospace">
     <rect x="50.0" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
-    <rect x="50.0" y="121.4" width="50.4" height="43.6" rx="3" fill="#3fb950"><title>Mon: 8 sessions, 4.3h</title></rect>
-    <text x="75.2" y="117.4" text-anchor="middle" fill="#8b949e" font-size="9">8</text>
+    <rect x="50.0" y="110.5" width="50.4" height="54.5" rx="3" fill="#3fb950"><title>Mon: 10 sessions, 4.9h</title></rect>
+    <text x="75.2" y="106.5" text-anchor="middle" fill="#8b949e" font-size="9">10</text>
     <rect x="112.4" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
     <rect x="174.9" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
     <rect x="237.3" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
