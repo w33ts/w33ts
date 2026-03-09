@@ -2,4 +2,4 @@
 <img src="images/vibe-clock-card.svg" alt="Vibe Clock Stats" />
 <img src="images/vibe-clock-heatmap.svg" alt="Activity Heatmap" />
 <img src="images/vibe-clock-donut.svg" alt="Model Usage" />
-<img src="images/vibe-clock-bars.svg" alt="Projects" />
+<img src="images/vibe-clock-token-bars.svg" alt="Token Usage" />
