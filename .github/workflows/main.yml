@@ -19,6 +19,7 @@ jobs:
           # Options
           user: w33ts
           template: classic
+          config_presets: "@lowlighter/metrics/source/templates/classic/presets/dark.json"
           base: header, activity, community, repositories, metadata
           base_indepth: true
           repositories_affiliations: OWNER, ORGANIZATION_MEMBER, COLLABORATOR
