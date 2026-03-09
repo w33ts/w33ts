@@ -5,11 +5,19 @@
   </text>
   <g font-family="Courier New, Courier, monospace">
     <rect x="50.0" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
+    <rect x="50.0" y="121.4" width="50.4" height="43.6" rx="3" fill="#3fb950"><title>Mon: 8 sessions, 4.3h</title></rect>
+    <text x="75.2" y="117.4" text-anchor="middle" fill="#8b949e" font-size="9">8</text>
     <rect x="112.4" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
     <rect x="174.9" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
     <rect x="237.3" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
+    <rect x="237.3" y="132.3" width="50.4" height="32.7" rx="3" fill="#3fb950"><title>Thu: 6 sessions, 19.3h</title></rect>
+    <text x="262.5" y="128.3" text-anchor="middle" fill="#8b949e" font-size="9">6</text>
     <rect x="299.7" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
+    <rect x="299.7" y="45.0" width="50.4" height="120.0" rx="3" fill="#3fb950"><title>Fri: 22 sessions, 18.1h</title></rect>
+    <text x="324.9" y="41.0" text-anchor="middle" fill="#8b949e" font-size="9">22</text>
     <rect x="362.1" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
+    <rect x="362.1" y="121.4" width="50.4" height="43.6" rx="3" fill="#3fb950"><title>Sat: 8 sessions, 2.6h</title></rect>
+    <text x="387.4" y="117.4" text-anchor="middle" fill="#8b949e" font-size="9">8</text>
     <rect x="424.6" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
     <text x="75.2" y="179" text-anchor="middle" fill="#c9d1d9" font-size="10">Mon</text>
     <text x="137.6" y="179" text-anchor="middle" fill="#c9d1d9" font-size="10">Tue</text>
