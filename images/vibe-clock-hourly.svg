@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="200" viewBox="0 0 495 200">
+  <rect width="493" height="198" x="1" y="1" rx="4.5" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="28" fill="#58a6ff" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif">
+    Activity by Hour
+  </text>
+  <g font-family="Courier New, Courier, monospace">
+    <text x="30" y="48.0" text-anchor="end" fill="#8b949e" font-size="9">1</text>
+    <text x="30" y="108.0" text-anchor="end" fill="#8b949e" font-size="9">0</text>
+    <text x="30" y="168.0" text-anchor="end" fill="#8b949e" font-size="9">0</text>
+    <rect x="35.0" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="53.4" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="71.8" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="90.2" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="108.7" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="127.1" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="145.5" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="163.9" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="182.3" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="200.8" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="219.2" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="237.6" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="256.0" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="274.4" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="292.8" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="311.2" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="329.7" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="348.1" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="366.5" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="384.9" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="403.3" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="421.8" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="440.2" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <rect x="458.6" y="45" width="16.4" height="120" rx="2" fill="#21262d"/>
+    <text x="43.2" y="179" text-anchor="middle" fill="#8b949e" font-size="9">0:00</text>
+    <text x="98.5" y="179" text-anchor="middle" fill="#8b949e" font-size="9">3:00</text>
+    <text x="153.7" y="179" text-anchor="middle" fill="#8b949e" font-size="9">6:00</text>
+    <text x="209.0" y="179" text-anchor="middle" fill="#8b949e" font-size="9">9:00</text>
+    <text x="264.2" y="179" text-anchor="middle" fill="#8b949e" font-size="9">12:00</text>
+    <text x="319.5" y="179" text-anchor="middle" fill="#8b949e" font-size="9">15:00</text>
+    <text x="374.7" y="179" text-anchor="middle" fill="#8b949e" font-size="9">18:00</text>
+    <text x="430.0" y="179" text-anchor="middle" fill="#8b949e" font-size="9">21:00</text>
+  </g>
+</svg>
