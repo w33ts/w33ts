@@ -5,9 +5,11 @@
   </text>
   <g font-family="Courier New, Courier, monospace">
     <rect x="50.0" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
-    <rect x="50.0" y="105.0" width="50.4" height="60.0" rx="3" fill="#3fb950"><title>Mon: 11 sessions, 7.3h</title></rect>
-    <text x="75.2" y="101.0" text-anchor="middle" fill="#8b949e" font-size="9">11</text>
+    <rect x="50.0" y="94.1" width="50.4" height="70.9" rx="3" fill="#3fb950"><title>Mon: 13 sessions, 7.3h</title></rect>
+    <text x="75.2" y="90.1" text-anchor="middle" fill="#8b949e" font-size="9">13</text>
     <rect x="112.4" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
+    <rect x="112.4" y="154.1" width="50.4" height="10.9" rx="3" fill="#3fb950"><title>Tue: 2 sessions, 0.0h</title></rect>
+    <text x="137.6" y="150.1" text-anchor="middle" fill="#8b949e" font-size="9">2</text>
     <rect x="174.9" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
     <rect x="237.3" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
     <rect x="237.3" y="132.3" width="50.4" height="32.7" rx="3" fill="#3fb950"><title>Thu: 6 sessions, 19.3h</title></rect>
