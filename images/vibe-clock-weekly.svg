@@ -5,15 +5,17 @@
   </text>
   <g font-family="Courier New, Courier, monospace">
     <rect x="50.0" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
-    <rect x="50.0" y="94.1" width="50.4" height="70.9" rx="3" fill="#3fb950"><title>Mon: 13 sessions, 7.3h</title></rect>
+    <rect x="50.0" y="94.1" width="50.4" height="70.9" rx="3" fill="#3fb950"><title>Mon: 13 sessions, 24.6h</title></rect>
     <text x="75.2" y="90.1" text-anchor="middle" fill="#8b949e" font-size="9">13</text>
     <rect x="112.4" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
-    <rect x="112.4" y="154.1" width="50.4" height="10.9" rx="3" fill="#3fb950"><title>Tue: 2 sessions, 0.0h</title></rect>
-    <text x="137.6" y="150.1" text-anchor="middle" fill="#8b949e" font-size="9">2</text>
+    <rect x="112.4" y="99.5" width="50.4" height="65.5" rx="3" fill="#3fb950"><title>Tue: 12 sessions, 9.7h</title></rect>
+    <text x="137.6" y="95.5" text-anchor="middle" fill="#8b949e" font-size="9">12</text>
     <rect x="174.9" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
+    <rect x="174.9" y="115.9" width="50.4" height="49.1" rx="3" fill="#3fb950"><title>Wed: 9 sessions, 93.5h</title></rect>
+    <text x="200.1" y="111.9" text-anchor="middle" fill="#8b949e" font-size="9">9</text>
     <rect x="237.3" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
-    <rect x="237.3" y="132.3" width="50.4" height="32.7" rx="3" fill="#3fb950"><title>Thu: 6 sessions, 19.3h</title></rect>
-    <text x="262.5" y="128.3" text-anchor="middle" fill="#8b949e" font-size="9">6</text>
+    <rect x="237.3" y="105.0" width="50.4" height="60.0" rx="3" fill="#3fb950"><title>Thu: 11 sessions, 22.7h</title></rect>
+    <text x="262.5" y="101.0" text-anchor="middle" fill="#8b949e" font-size="9">11</text>
     <rect x="299.7" y="45" width="50.4" height="120" rx="3" fill="#21262d"/>
     <rect x="299.7" y="45.0" width="50.4" height="120.0" rx="3" fill="#3fb950"><title>Fri: 22 sessions, 18.1h</title></rect>
     <text x="324.9" y="41.0" text-anchor="middle" fill="#8b949e" font-size="9">22</text>
